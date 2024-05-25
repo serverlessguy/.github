@@ -11,12 +11,13 @@ With a strong customer-centric mindset, I align technology solutions with real-w
 Social Media: [LinkedIn](https://www.linkedin.com/in/gregtx/) | [Twitter](https://twitter.com/ServerlessGuy)  
 Certifications: [Microsoft](https://learn.microsoft.com/en-us/users/gregtx/transcript/7olk8u8e5qz9n9l) | [Credly](https://www.credly.com/users/gregtx/) | [BadgeCert](https://bcert.me/bc/html/show-badge.html?b=pkgebblx)
 
-## In This Repo
+## Sample Code
 
 AWS code samples, architecture diagrams, CloudFormation and SAM templates, Serverless applications, and more.
 
 1. [Amazon CloudFront with on-the-fly Image Resizing](https://github.com/serverlessguy/samples/tree/d934bc7c35ce3f92c12dfe6a37c647c2991e3c8d/cloudfront-resize-image) - Serve images through Amazon CloudFront with support for on-the-fly image resizing.
 1. [S3 Cross-Account Replication with KMS](https://github.com/serverlessguy/samples/tree/d934bc7c35ce3f92c12dfe6a37c647c2991e3c8d/s3-cross-account-replication-with-kms) - Replicate objects between two S3 buckets in different accounts within the same region using server-side encryption with customer-managed KMS keys.
+1. [Deploying AWS IoT Greengrass v2](https://github.com/serverlessguy/iot-greengrass) - Setup and deploy custom components using AWS IoT Greengrass, demonstrating advanced capabilities in IoT device management and communication.
 
 ## Public Gists
 
